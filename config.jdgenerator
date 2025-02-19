@@ -1,0 +1,62 @@
+==== CONFIGS ====		
+{
+    "base_path": "/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad",
+    "out": "/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc",
+    "javadoc_executable": "/usr/lib/jvm/java-18-openjdk-amd64/bin/javadoc",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"/usr/lib/jvm/java-18-openjdk-amd64/bin/javadoc" 
+	-sourcepath "/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad" 
+	-d "/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc" 
+	"/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java"
+
+
+==== JAVADOC OUTPUT ====
+Loading source file /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java...
+Constructing Javadoc information...
+Building index for all the packages and classes...
+Standard Doclet version 18.0.2-ea+9-Ubuntu-222.04
+Building tree for all the packages and classes...
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:4: warning: no initial description
+ * @author Lucia Castañera
+   ^
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/Edad.html...
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:15: warning: no initial description
+     * @param edad introduce la edad del objeto
+       ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:29: warning: no initial description
+     * @return edad
+       ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:37: warning: no initial description
+     * @param edad coge la edad del objeto especifico
+       ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:45: warning: no initial description
+     * @return nombre
+       ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:87: warning: no comment
+    public int getAñoNacimiento() {
+               ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:78: warning: no comment
+    public static void main(String[] args) throws Exception {
+                       ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:92: warning: no comment
+    public void setAñoNacimiento(int añoNacimiento) {
+                ^
+/home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/src/Edad.java:51: warning: no comment
+    public void setNombre(String nombre) {
+                ^
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/package-summary.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/package-tree.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/overview-tree.html...
+Building index for all classes...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/allclasses-index.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/allpackages-index.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/index-all.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/index.html...
+Generating /home/a024473785z/Escritorio/ENTORNOS/EV2/git/Edad/javadoc/help-doc.html...
+9 warnings
+
+
